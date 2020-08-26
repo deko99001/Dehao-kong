@@ -1,2 +1,0 @@
-# Dehao-kong
-uppgifter2
