@@ -1,10 +1,12 @@
 p{
+	font-size: 200%;
 	color: blue; 
-	font-size: 200%
 }
 body{
 	background-color: red; 
 }
-body{
-	font-family: Arial; 
+
+.text { 
+	font-family: Arial;
+	font-size: 22px;
 }
