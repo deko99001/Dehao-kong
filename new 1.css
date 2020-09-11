@@ -3,9 +3,14 @@ table{
 	border:1px solid black;
 	border-collapse:collapse;
 }
-td,th{
+th{
+    width:50px;
+	border:1px solid black;
+	background-color:gray;
+}	
+td{
 	width:50px;
 	border:1px solid black;
-	background-color:blue;
+	background-color:yellow;
 	
 }
